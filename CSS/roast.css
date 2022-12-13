@@ -1,0 +1,13 @@
+@import "./style.css";
+@import "./type.css";
+
+#recipe01{
+    background-image: url(../Resource/roast/recipe01.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#recipe02{
+    background-image: url(../Resource/roast/recipe02.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,13 @@
+@import "./style.css";
+@import "./type.css";
+
+#recipe01{
+    background-image: url(../Resource/cookie/recipe01.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#recipe02{
+    background-image: url(../Resource/cookie/recipe02.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}

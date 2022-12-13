@@ -1,0 +1,18 @@
+@import "./style.css";
+@import "./type.css";
+
+#recipe01{
+    background-image: url(../Resource/BBQ/recipe01.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#recipe02{
+    background-image: url(../Resource/BBQ/recipe02.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#recipe03{
+    background-image: url(../Resource/BBQ/recipe03.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
