@@ -64,7 +64,7 @@
 
     grid-area: Content;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 2vw;
+    grid-gap: 1vw;
 
     font-size: 1.5vw;
 
@@ -78,6 +78,9 @@
         grid-template-columns: 1fr 1fr 1fr;
 
         font-size: 1.2vw;
+    }
+    .box{
+        width: 27vw;
     }
 }
 
