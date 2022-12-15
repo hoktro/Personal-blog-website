@@ -1,0 +1,7 @@
+@import "../recipe.css";
+
+.intro_image{
+    background-image: url("./BBQ/recipe02.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
